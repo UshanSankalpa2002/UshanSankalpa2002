@@ -51,7 +51,7 @@ I am a passionate **Full-Stack Developer** and **AI Enthusiast** focused on buil
 <p align="center">
 <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ushan-sankalpa-a7b918316/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="[YOUR_PORTFOLIO_URL](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fheartfelt-cannoli-5cd40c.netlify.app%2F&urlhash=qNvM&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BuidNljDeSaueARmWrpM0SA%3D%3D)"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="mailto:ushansankalpa24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </p>
 
 <p align="right">
