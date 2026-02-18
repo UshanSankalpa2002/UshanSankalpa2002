@@ -38,5 +38,5 @@ I am a passionate **Full-Stack Developer** and **AI Enthusiast** focused on buil
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UshanSankalpa2002&theme=tokyonight" alt="GitHub Streak" />
 </p>
----
+
 
