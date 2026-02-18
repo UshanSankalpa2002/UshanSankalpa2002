@@ -33,10 +33,7 @@ I am a passionate **Full-Stack Developer** and **AI Enthusiast** focused on buil
 
 ### 📈 GitHub Analytics:
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UshanSankalpa2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshanSankalpa2002&layout=compact&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UshanSankalpa2002&theme=tokyonight" alt="GitHub Streak" />
