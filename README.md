@@ -20,7 +20,6 @@ Final Year Research Project: Developing a mobile app to help university students
 
 🎨 Personal Interests
 Outside of the code, you’ve shown a strong interest in:
-
 Photography: You've even looked into professional workshops to sharpen your eye.
 ---
 
