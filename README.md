@@ -26,7 +26,7 @@ I am a passionate **Full-Stack Developer** and **AI Enthusiast** focused on buil
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,flutter,firebase,python,js,html,css,git,github,vscode,postman,mysql,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,flutter,js,html,css,git,github,vscode,postman" />
   </a>
 </p>
 
@@ -39,9 +39,7 @@ I am a passionate **Full-Stack Developer** and **AI Enthusiast** focused on buil
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UshanSankalpa2002&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UshanSankalpa2002&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+
 
 ---
 
