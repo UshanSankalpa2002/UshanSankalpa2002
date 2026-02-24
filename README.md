@@ -16,8 +16,12 @@ I am a passionate **Full-Stack Developer** and **AI Enthusiast** focused on buil
 ### 🛠️ What I'm Up To:
 🎓 Academic & Research (SLIIT)
 As a final-year IT undergraduate, you are knee-deep in:
-
 Final Year Research Project: Developing a mobile app to help university students manage financial stress. This isn't just a basic app; it uses Neural Networks and Gemini AI to generate personalized saving plans.
+
+🎨 Personal Interests
+Outside of the code, you’ve shown a strong interest in:
+
+Photography: You've even looked into professional workshops to sharpen your eye.
 ---
 
 ### 💻 Tech Stack & Tools:
