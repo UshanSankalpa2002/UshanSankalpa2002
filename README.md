@@ -14,11 +14,10 @@ I am a passionate **Full-Stack Developer** and **AI Enthusiast** focused on buil
 ---
 
 ### 🛠️ What I'm Up To:
-- 💻 **Internship:** Developing a specialized platform for **SLT** to deploy ML models for **SSN** and **Eye Retinopathy** detection.
-- 📱 **Group Project:** Building **SmartRoute**, a Flutter-based optimization tool for telecom technicians.
-- 🧠 **Learning:** Deepening my knowledge in **Neural Networks** and **Predictive Modeling**.
-- 🌍 **Passions:** I love travel-tech and I'm a huge fan of **Photography** 📸.
+🎓 Academic & Research (SLIIT)
+As a final-year IT undergraduate, you are knee-deep in:
 
+Final Year Research Project: Developing a mobile app to help university students manage financial stress. This isn't just a basic app; it uses Neural Networks and Gemini AI to generate personalized saving plans.
 ---
 
 ### 💻 Tech Stack & Tools:
