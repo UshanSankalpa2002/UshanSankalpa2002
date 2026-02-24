@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Stack-MERN-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge&logo=flutter">
+  <img src="https://img.shields.io/badge/Mobile-React native-02569B?style=for-the-badge&logo=flutter">
   <img src="https://img.shields.io/badge/AI/ML-Enthusiast-green?style=for-the-badge">
 </p>
 
