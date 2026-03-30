@@ -17,7 +17,6 @@ I am a passionate **Full-Stack Developer** and **AI Enthusiast** focused on buil
 
 - 🏢 **Internship at SLT:** Developing a specialized platform to deploy and manage ML models, focusing on **SSN processing** and **Eye Retinopathy** detection.
 - 🎓 **Research Project:** Building an AI-driven mobile app for **Financial Stress Management**, integrating **Neural Networks** and **Gemini AI** for personalized saving plans.
-- 📱 **SmartRoute:** Collaborating on an AI-powered route optimization tool for telecom technicians using **Flutter**.
 - 📸 **Passions:** When I'm not coding, I'm capturing the world through my lens as a **Photography enthusiast**.
 
 ---
